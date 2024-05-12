@@ -10,7 +10,7 @@ Este proyecto es una aplicación móvil desarrollada con Flutter que muestra inf
 ## Instalación
 1. Clona este repositorio en tu máquina local.
     ```bash
-    git clone https://github.com/tuusuario/star_wars_info.git
+    git clone [https://github.com/lualbertovargas/star_wars_app.git](https://github.com/lualbertovargas/strar_wars_app.git)
     ```
 2. Accede al directorio del proyecto.
     ```bash
