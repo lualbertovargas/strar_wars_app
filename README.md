@@ -5,7 +5,7 @@ Este proyecto es una aplicación móvil desarrollada con Flutter que muestra inf
 
 ## Requisitos
 - Flutter v3.0.5
-- Dispositivo móvil con giroscopio (para la funcionalidad de interacción)
+- Dispositivo móvil con S.O. (Android)
 
 ## Instalación
 1. Clona este repositorio en tu máquina local.
