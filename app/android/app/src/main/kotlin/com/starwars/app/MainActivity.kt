@@ -1,4 +1,4 @@
-package com.starWarsApp.app
+package com.starwars.app
 
 import io.flutter.embedding.android.FlutterActivity
 
